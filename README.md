@@ -6,6 +6,8 @@ IdentiFi is a DeFi lending protocol built on HashKey Chain. It reads your on-cha
 
 Live demo: **https://identifi-beta.vercel.app**
 
+Demo video: **https://youtu.be/ysyKSvtP7Pw**
+
 > **Note on the demo video:** Due to limited HashKey Testnet faucet availability, I was unable to fund the demo wallets with enough HSK to complete a full borrow transaction on camera. The demo video shows the UI flow, KYC tier detection, and the borrow modal — but the actual on-chain transaction could not be submitted during recording. The contracts are fully deployed and functional on HashKey Testnet. Anyone can test a real borrow by importing one of the demo wallet private keys (listed below) and requesting HSK from the testnet faucet at https://testnet.hsk.xyz.
 
 ---
